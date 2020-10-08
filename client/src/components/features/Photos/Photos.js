@@ -14,7 +14,6 @@ const Photos = ({ data, votePhoto, request }) => {
       </Row>
     </section>
   );
-
 };
 
 Photos.propTypes = {
